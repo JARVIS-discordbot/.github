@@ -1,3 +1,9 @@
+# Jarvis Discord Bot Organization
+
+Welcome to the official GitHub organization for Jarvis Discord Bot — here you can find all the repositories, code, cogs, and resources that power your ultimate Discord companion.
+
+---
+
 <p align="center">
   <img src="https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif?size=256" alt="Jarvis Discord Bot Avatar" width="120" height="120">
 </p>
@@ -32,6 +38,3 @@ The best bot for your Discord server — easy to use, packed with features, and 
   © 2020–2025 Jarvis Discord Bot  
   <a href="https://jarvisdiscordbot.net/terms">Terms of Service</a> • <a href="https://jarvisdiscordbot.net/privacy">Privacy Policy</a>
 </p>
-
-
-
