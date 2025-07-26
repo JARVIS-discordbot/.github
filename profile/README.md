@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JARVIS-discordbot/landing/main/assets/jarvis-avatar.png" alt="Jarvis Discord Bot Avatar" width="120" height="120">
+  <img src="[https://raw.githubusercontent.com/JARVIS-discordbot/landing/main/assets/jarvis-avatar.png](https://cdn.discordapp.com/avatars/603939742316363778/a_06976bd73730bd53f7177099a1a1b588.gif)" alt="Jarvis Discord Bot Avatar" width="120" height="120">
 </p>
 
 <h1 align="center">Jarvis Discord Bot</h1>
