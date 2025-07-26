@@ -29,6 +29,9 @@ The best bot for your Discord server — easy to use, packed with features, and 
 ---
 
 <p align="center">
-  © 2025 Jarvis Discord Bot  
+  © 2020–2023 Jarvis Discord Bot  
   <a href="https://jarvisdiscordbot.net/terms">Terms of Service</a> • <a href="https://jarvisdiscordbot.net/privacy">Privacy Policy</a>
 </p>
+
+
+
