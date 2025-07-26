@@ -20,13 +20,12 @@ The best bot for your Discord server — easy to use, packed with features, and 
 <p align="center">
   <a href="https://jarvisdiscordbot.net/invite"><b>Invite Bot</b></a> •
   <a href="https://dash.jarvisdiscordbot.net/"><b>Dashboard</b></a> •
-  <a href="https://jarvisdiscordbot.net/support"><b>Support</b></a> •
+  <a href="https://discord.com/invite/WW4eNQj9qr"><b>Support</b></a> •
   <a href="https://jarvisdiscordbot.net/commands"><b>Commands</b></a> •
   <a href="https://status.jarvisdiscordbot.net"><b>Status Page</b></a> •
-  <a href="https://jarvisdiscordbot.net/donate"><b>Donate</b></a> •
+  <a href="https://coff.ee/bencos18"><b>Donate</b></a> •
   <a href="https://enumbers.jarvisdiscordbot.net/"><b>E‑Number Lookup</b></a>
 </p>
-
 ---
 
 <p align="center">
