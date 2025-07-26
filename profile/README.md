@@ -21,7 +21,7 @@ The best bot for your Discord server — easy to use, packed with features, and 
   <a href="https://discord.com/oauth2/authorize?client_id=603939742316363778&scope=bot&permissions=1095216004855"><b>Invite Bot</b></a> •
   <a href="https://dash.jarvisdiscordbot.net/"><b>Dashboard</b></a> •
   <a href="https://discord.com/invite/WW4eNQj9qr"><b>Support</b></a> •
-  <a href="https://jarvisdiscordbot.net/commands"><b>Commands</b></a> •
+  <a href="https://dash.jarvisdiscordbot.net/commands"><b>Commands</b></a> •
   <a href="https://status.jarvisdiscordbot.net"><b>Status Page</b></a> •
   <a href="https://coff.ee/bencos18"><b>Donate</b></a> •
   <a href="https://enumbers.jarvisdiscordbot.net/"><b>E‑Number Lookup</b></a>
