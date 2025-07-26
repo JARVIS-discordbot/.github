@@ -1,0 +1,30 @@
+name: Update Year in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight UTC
+  workflow_dispatch: # allow manual runs
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set current year
+        id: date
+        run: echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          YEAR=${{ steps.date.outputs.year }}
+          sed -i "s/© 2020–[0-9]\{4\}/© 2020–$YEAR/" profile/README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile/README.md
+          git commit -m "chore: update year to ${{ steps.date.outputs.year }}" || echo "No changes to commit"
+          git push
