@@ -19,13 +19,21 @@ The best bot for your Discord server — easy to use, packed with features, and 
 
 <p align="center">
   <a href="https://jarvisdiscordbot.net/invite"><b>Invite Bot</b></a> •
-  <a href="https://jarvisdiscordbot.net/dashboard"><b>Dashboard</b></a> •
+  <a href="https://dash.jarvisdiscordbot.net/"><b>Dashboard</b></a> •
   <a href="https://jarvisdiscordbot.net/support"><b>Support</b></a> •
   <a href="https://jarvisdiscordbot.net/commands"><b>Commands</b></a> •
   <a href="https://status.jarvisdiscordbot.net"><b>Status Page</b></a> •
   <a href="https://jarvisdiscordbot.net/donate"><b>Donate</b></a> •
-  <a href="https://jarvisdiscordbot.net/e-numbers"><b>E‑Number Lookup</b></a>
+  <a href="https://enumbers.jarvisdiscordbot.net/"><b>E‑Number Lookup</b></a>
 </p>
+
+---
+
+<p align="center">
+  © 2020–2025 Jarvis Discord Bot  
+  <a href="https://dash.jarvisdiscordbot.net/custom-page/tos">Terms of Service</a> • <a href="https://dash.jarvisdiscordbot.net/custom-page/privacy">Privacy Policy</a>
+</p>
+
 
 ---
 
