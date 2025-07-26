@@ -1,5 +1,8 @@
 name: Update Year in README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *' # runs every day at midnight UTC
