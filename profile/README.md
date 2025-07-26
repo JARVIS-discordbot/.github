@@ -18,7 +18,7 @@ The best bot for your Discord server — easy to use, packed with features, and 
 ---
 
 <p align="center">
-  <a href="https://jarvisdiscordbot.net/invite"><b>Invite Bot</b></a> •
+  <a href="https://discord.com/oauth2/authorize?client_id=603939742316363778&scope=bot&permissions=1095216004855"><b>Invite Bot</b></a> •
   <a href="https://dash.jarvisdiscordbot.net/"><b>Dashboard</b></a> •
   <a href="https://discord.com/invite/WW4eNQj9qr"><b>Support</b></a> •
   <a href="https://jarvisdiscordbot.net/commands"><b>Commands</b></a> •
