@@ -5,7 +5,8 @@ permissions:
 
 on:
   schedule:
-        - cron: '0 0 1 1 *' # runs at midnight on January 1st each year  workflow_dispatch: # allow manual runs
+    - cron: '0 0 1 1 *' # runs at midnight on January 1st each year
+  workflow_dispatch: # allow manual runs
 
 jobs:
   update-year:
